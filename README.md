@@ -59,6 +59,7 @@ See [CONTRIBUTING.md](.github/CONTRIBUTING.md) for detailed instructions on how 
 |------|----------|-------------|----------------|
 | Newsletter | [TechCrunch](https://techcrunch.com/) | Latest tech news, startups, and industry trends | [![@yltw27](https://github.com/yltw27.png?size=32)](https://github.com/yltw27) |
 | Newsletter | [Y Combinator](https://www.ycombinator.com/subscribe) | Startup news and insights from the YC ecosystem | [![@yltw27](https://github.com/yltw27.png?size=32)](https://github.com/yltw27) |
+| Newsletter | [AI Valley](https://www.theaivalley.com/) | 3-minute summaries of the latest artificial intelligence news, trends, startups and practical AI tools | [![@Shida18719](https://github.com/Shida18719.png?size=32)](https://github.com/Shida18719) |
 
 ---
 
