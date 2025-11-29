@@ -33,6 +33,21 @@ See [CONTRIBUTING.md](.github/CONTRIBUTING.md) for detailed instructions on how 
 | Newsletter | [Turing Post](https://www.turingpost.com/) | In-depth analysis of AI trends and research | [![@yltw27](https://github.com/yltw27.png?size=32)](https://github.com/yltw27) |
 | Newsletter | [Deep (Learning) Post](https://cameronrwolfe.substack.com/) | Deep dives into machine learning concepts and papers | [![@yltw27](https://github.com/yltw27.png?size=32)](https://github.com/yltw27) |
 
+
+## AI Thought Leaders & Prompt Engineering Experts
+| Name | Focus Area | Why Follow | LinkedIn |
+|------|------------|------------|----------|
+| [Andrew Ng](https://linkedin.com/in/andrewyng) | AI Education & ML | Co-founder of Google Brain and Coursera. Essential for foundational AI knowledge and iterative prompting methods | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrewyng) |
+| [Andrej Karpathy](https://linkedin.com/in/andrej-karpathy-9a650716) | AI Research & Deep Learning | Former Tesla AI Director and OpenAI founding member. Deep technical insights into neural networks and AI systems | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrej-karpathy-9a650716) |
+| [Ethan Mollick](https://linkedin.com/in/emollick) | AI in Business & Education | Wharton professor and author of "Co-Intelligence". Practical AI applications and real-world impact | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/emollick) |
+| [Yohei Nakajima](https://linkedin.com/in/yohei-nakajima) | AI Agents & Automation | Creator of BabyAGI. Pioneer in autonomous AI agents and the future of agentic systems | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yohei-nakajima) |
+| [Riley Goodside](https://linkedin.com/in/goodside) | Prompt Engineering | Staff Prompt Engineer at Scale AI. Creative prompt engineering and discovering new AI capabilities | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/goodside) |
+| [Matt Wolfe](https://linkedin.com/in/mattwolfe1) | AI Tools & Workflows | Discovering new AI tools and practical implementation workflows | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mattwolfe1) |
+| [Rowan Cheung](https://linkedin.com/in/rowancheung) | AI Strategy & Business | Runs "The Rundown AI" newsletter. AI business strategy and industry trends | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rowancheung) |
+| [Satya Mallick](https://linkedin.com/in/satyamallick) | Computer Vision & Tutorials | Founder of LearnOpenCV. Excellent for computer vision and practical AI tutorials | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/satyamallick) |
+| [Varun Mayya](https://linkedin.com/in/varunmayya/) | Prompt Engineering | Co-founder of Avalon Labs. Systematic prompting approaches and AI product development | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/varunmayya/) |
+| [Linus Ekenstam](https://linkedin.com/in/linusekenstam) | AI Writing | Few-shot learning methods and AI-powered writing techniques | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/linusekenstam) |
+| [Adam Marblestone](https://linkedin.com/in/adam-marblestone-87202813) | AI Research | CEO of Convergent Research. Structured thinking methods and AI research leadership | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adam-marblestone-87202813) |
 ---
 
 ## Software Development
